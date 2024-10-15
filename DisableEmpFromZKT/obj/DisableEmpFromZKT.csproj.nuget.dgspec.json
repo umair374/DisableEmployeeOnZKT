@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\DisableEmpFromZKT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\DisableEmpFromZKT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\DisableEmpFromZKT.csproj",
+        "projectName": "DisableEmpFromZKT",
+        "projectPath": "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\DisableEmpFromZKT.csproj",
+        "packagesPath": "C:\\Users\\UMAIR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UMAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

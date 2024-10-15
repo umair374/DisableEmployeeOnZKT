@@ -1,0 +1,13 @@
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.csproj.AssemblyReference.cache
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.AssemblyInfoInputs.cache
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.AssemblyInfo.cs
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.csproj.CoreCompileInputs.cache
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.sourcelink.json
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452\DisableEmpFromZKT.exe.config
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452\DisableEmpFromZKT.exe
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452\DisableEmpFromZKT.pdb
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452\Interop.zkemkeeper.dll
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableE.B63830CA.Up2Date
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.exe
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.pdb
