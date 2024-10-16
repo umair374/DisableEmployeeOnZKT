@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisableEmpFromZKT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61760299b00180434e19104e0311c90c558d330b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+510639a4bdee953ffe5c73bc30fdbab450c65ea2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisableEmpFromZKT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisableEmpFromZKT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

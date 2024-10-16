@@ -11,3 +11,4 @@ C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452
 C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableE.B63830CA.Up2Date
 C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.exe
 C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\obj\Debug\net452\DisableEmpFromZKT.pdb
+C:\Users\UMAIR\source\repos\DisableEmpFromZKT\DisableEmpFromZKT\bin\Debug\net452\Oracle.ManagedDataAccess.dll

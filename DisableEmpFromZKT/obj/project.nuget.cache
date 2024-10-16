@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cemTbH5zJTQ=",
+  "dgSpecHash": "0BOQJdZYDqk=",
   "success": true,
   "projectFilePath": "C:\\Users\\UMAIR\\source\\repos\\DisableEmpFromZKT\\DisableEmpFromZKT\\DisableEmpFromZKT.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\UMAIR\\.nuget\\packages\\oracle.manageddataaccess\\19.20.0\\oracle.manageddataaccess.19.20.0.nupkg.sha512",
+    "C:\\Users\\UMAIR\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
